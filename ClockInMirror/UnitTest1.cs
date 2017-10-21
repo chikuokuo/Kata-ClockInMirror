@@ -9,6 +9,7 @@ namespace ClockInMirror
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
